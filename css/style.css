@@ -42,4 +42,9 @@
   float: left;
   border-style: dotted;
   border-color: red;
+  width: 100px;
+}
+
+body {
+  background-color: lightgrey;
 }
